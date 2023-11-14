@@ -6,7 +6,8 @@
 - GCS account
 
 ## Astro CLI
-The Astro CLI is a command-line interface for data orchestration. It allows you to get started with Apache Airflow,  It's the easiest way to get started with Apache Airflow. <br/>
+- The Astro CLI is a command-line interface for data orchestration. It allows you to get started with Apache Airflow,  It's the easiest way to get started with Apache Airflow. <br/>
+- To install astro cli we need to make sure we have windows 10 and docker installed.
 
 [Helpful vedio to download Astro CLI](https://www.youtube.com/results?search_query=download+astro+cli+on+windows)<br/>
 [Helpful repo to download latest Astro CLI zip file](https://gist.github.com/andriisoldatenko/e351f5310d14c0270fad681bfd7c49d3)<br/>
