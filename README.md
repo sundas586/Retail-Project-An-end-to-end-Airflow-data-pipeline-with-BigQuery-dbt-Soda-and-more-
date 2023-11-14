@@ -1,4 +1,4 @@
-## prerequisites for the project
+## Prerequisites for the project
 
 - Docker
 - Astro CLI
