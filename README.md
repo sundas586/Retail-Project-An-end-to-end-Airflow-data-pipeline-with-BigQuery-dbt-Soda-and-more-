@@ -14,6 +14,7 @@ astro dev init # to initiate development environment
 ```  
 
 [Helpful vedio to download Astro CLI](https://www.youtube.com/results?search_query=download+astro+cli+on+windows)<br/>
+[official website to download latest Astro CLI zip file](https://docs.astronomer.io/astro/cli/install-cli?tab=windows#install-the-astro-cli)<br/>
 [Helpful repo to download latest Astro CLI zip file](https://gist.github.com/andriisoldatenko/e351f5310d14c0270fad681bfd7c49d3) <br/><br/>
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/0a9c581c-535e-4a8c-b098-1bbd09bf02d5)
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/519811d6-9a17-4288-9f11-0f0c0fbaae56)
