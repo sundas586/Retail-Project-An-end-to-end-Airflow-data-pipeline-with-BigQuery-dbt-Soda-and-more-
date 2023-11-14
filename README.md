@@ -10,7 +10,9 @@
 - To install astro cli we need to make sure we have windows 10 and docker installed.
 
 ```diff
-astro dev init # to initiate development environment
+astro dev init
+# to initiate development environment
+# please make sure to restart the system, as otherwise, this command will not execute, even when I ran it, after restart, it executed
 ```  
 
 [Helpful vedio to download Astro CLI](https://www.youtube.com/results?search_query=download+astro+cli+on+windows)<br/>
@@ -19,6 +21,7 @@ astro dev init # to initiate development environment
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/0a9c581c-535e-4a8c-b098-1bbd09bf02d5)
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/519811d6-9a17-4288-9f11-0f0c0fbaae56)
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/9458b5ff-c460-4c91-ae58-9bb0ef86ecf5)
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/9287c89f-aaa3-4305-a944-c136d242c876)
 
 
 ## Soda
