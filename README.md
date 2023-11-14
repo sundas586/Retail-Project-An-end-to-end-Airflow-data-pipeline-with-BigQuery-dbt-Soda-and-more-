@@ -29,6 +29,7 @@ Soda is a platform that enables Data Engineers to test data for quality where an
 pip install -i https://pypi.cloud.soda.io soda-postgres
 pip install -i https://pypi.cloud.soda.io soda-mysql
 ```
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/ffc3c84b-e22d-45da-8f98-f3e4e4cd78aa)
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/8f8ce6a4-924d-46ec-baea-13ec46b0b98b)
 
 ## Cosmos
