@@ -17,7 +17,13 @@
 
 
 ## Soda
-Data quality framework
+Data quality framework (https://www.soda.io/) <br/><br/>
+
+Soda is a platform that enables Data Engineers to test data for quality where and when they need to.
+- Use Soda with GitHub Actions to test data quality during CI/CD development.
+- Use it with Airflow to test data quality after ingestion and transformation in your pipeline.
+- Integrate Soda with your on-call systems to get instant alerts when data quality issues surface.
+- Integrate with the tools and workflows your data team is already using.
 
 ## Cosmos
 - New way to integrate dbt with airflow <br/>
