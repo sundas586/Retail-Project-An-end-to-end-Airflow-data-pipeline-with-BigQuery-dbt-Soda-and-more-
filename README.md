@@ -25,6 +25,12 @@ Soda is a platform that enables Data Engineers to test data for quality where an
 - Integrate Soda with your on-call systems to get instant alerts when data quality issues surface.
 - Integrate with the tools and workflows your data team is already using.
 
+```diff
+pip install -i https://pypi.cloud.soda.io soda-postgres
+pip install -i https://pypi.cloud.soda.io soda-mysql
+```
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/8f8ce6a4-924d-46ec-baea-13ec46b0b98b)
+
 ## Cosmos
 - New way to integrate dbt with airflow <br/>
 - In cosmos all your dbt models becomes a task in the data pipeline. <br/>
