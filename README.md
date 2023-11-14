@@ -23,6 +23,20 @@ astro dev init
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/9458b5ff-c460-4c91-ae58-9bb0ef86ecf5)
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/9287c89f-aaa3-4305-a944-c136d242c876)
 
+- Here astronomer CLI image in the docker file, behind the scenes, is just for airflow easy integration with docker.
+  ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/34df1eff-616f-426b-b3a0-7885c5614125)
+
+- packages.txt to install operating system dependencies
+- requirements.txt to install python packages
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/d9ada26e-9972-4a64-a881-290c0a93d11b)
+
+```diff
+astro dev start
+# just run this command after init command & you will see airflow up & running
+```
+
+
+
 
 ## Soda
 Data quality framework (https://www.soda.io/) <br/><br/>
