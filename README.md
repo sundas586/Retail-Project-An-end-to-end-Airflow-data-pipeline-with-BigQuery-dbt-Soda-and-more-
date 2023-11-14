@@ -26,14 +26,18 @@ astro dev init
 - Here astronomer CLI image in the docker file, behind the scenes, is just for airflow easy integration with docker.
   ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/34df1eff-616f-426b-b3a0-7885c5614125)
 
-- packages.txt to install operating system dependencies
-- requirements.txt to install python packages
+- packages.txt to install operating system dependencies.<br/>
+- requirements.txt to install python packages.<br/>
+- dags directory to put our pipelines here.<br/>
+- include dir to put things that are not pipelines (like CSV file)
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/d9ada26e-9972-4a64-a881-290c0a93d11b)
-
+<br/>
 ```diff
 astro dev start
 # just run this command after init command & you will see airflow up & running
 ```
+<br/>
+- url : localhost:8080/home (admin/admin)
 
 
 
