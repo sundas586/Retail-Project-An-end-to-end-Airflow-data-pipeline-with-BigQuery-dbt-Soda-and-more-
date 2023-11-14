@@ -3,6 +3,14 @@
 ## Astro CLI
 The Astro CLI is a command-line interface for data orchestration. It allows you to get started with Apache Airflow,  It's the easiest way to get started with Apache Airflow .
 
+## Soda
+Data quality framework
+
+## Cosmos
+- New way to integrate dbt with airflow <br/>
+- In cosmos all your dbt models becomes a task in the data pipeline. <br/>
+- **alternate** : BashOperater to execute dbt commands
+
 ## Kaggle DataSet Used
 https://www.kaggle.com/datasets/tunguz/online-retail
 
