@@ -34,7 +34,7 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
 ## Cosmos
 - New way to integrate dbt with airflow <br/>
 - In cosmos all your dbt models becomes a task in the data pipeline. <br/>
-- **alternate** : BashOperater to execute dbt commands
+- **alternate** : BashOperater to execute dbt commands (but there will be no visual progress of models at the time )
 
 ## Kaggle DataSet Used
 https://www.kaggle.com/datasets/tunguz/online-retail
