@@ -69,6 +69,11 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
   
   ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/1108b304-7334-4adb-81dd-1ace37261874)
 
+- [a guide video for service account creation](https://www.youtube.com/watch?v=q9qHHEk5rVM)
+- created a service account & generated a .json key, with the help of the above video
+![image](https://github.com/sundas586/dbt-project/assets/33677647/8855f200-f5ca-42d7-8b4a-ad562c8b0cca)
+  
+
 
 ## Kaggle DataSet Used
 https://www.kaggle.com/datasets/tunguz/online-retail
