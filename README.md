@@ -63,6 +63,13 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
 - In cosmos all your dbt models becomes a task in the data pipeline. <br/>
 - **alternate** : BashOperater to execute dbt commands (but there will be no visual progress of models at the time )
 
+## GCS account
+- To load a file, one way is to create a bucket (You store objects in containers called buckets. All buckets are associated with a project).
+- But as I used a free version of BigQuery web UI, I directly created a table of this csv file.
+  
+  ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/1108b304-7334-4adb-81dd-1ace37261874)
+
+
 ## Kaggle DataSet Used
 https://www.kaggle.com/datasets/tunguz/online-retail
 
