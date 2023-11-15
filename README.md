@@ -72,6 +72,7 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
 - [a guide video for service account creation](https://www.youtube.com/watch?v=q9qHHEk5rVM)
 - created a service account & generated a .json key, with the help of the above video
 ![image](https://github.com/sundas586/dbt-project/assets/33677647/8855f200-f5ca-42d7-8b4a-ad562c8b0cca)
+- create a folder gcp as: OnlineRetail/include/gcp, inserted **datawarehouse-404612-8dd1b6e61781.json** service account file here and renamed it to service_account.json
   
 
 
