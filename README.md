@@ -39,6 +39,20 @@ astro dev start
 <br/>
 - url : localhost:8080/home (admin/admin)
 
+### how to find the proper path for service account :
+
+- Run the following command :
+```diff
+astro dev bash
+# this command provides the path of where the airflow schedular is running
+```
+- Then :
+- ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/9ff22765-0e66-4697-bcd6-634ef3124dae)
+- put this final address in airflow connection :
+- ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/16c90f85-edb5-4c2b-bf6b-254138479127)
+ 
+
+
 
 
 
@@ -73,6 +87,9 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
 - created a service account & generated a .json key, with the help of the above video
 ![image](https://github.com/sundas586/dbt-project/assets/33677647/8855f200-f5ca-42d7-8b4a-ad562c8b0cca)
 - create a folder gcp as: OnlineRetail/include/gcp, inserted **datawarehouse-404612-8dd1b6e61781.json** service account file here and renamed it to service_account.json
+
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/6ce39810-ea79-4ee7-ba21-31378738bca5)
+  
   
 
 
