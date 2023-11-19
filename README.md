@@ -85,6 +85,9 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
 - Now we are able to connect with BigQuery using Soda.
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/2212b092-8ce8-4ff5-9f0c-3c1c9c8cd65b)
 
+craeted a .yml file named "online_retail_table_schema_check.yml" to test the schma of online_retail_table in bigQuery.
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/389115d7-a209-45ea-a161-5781d2ef8e92)
+
 
 ## Cosmos
 - New way to integrate dbt with airflow <br/>
