@@ -48,6 +48,7 @@ astro dev start
 
 ### how to find the proper path for service account :
 
+['astro dev bash' command details](https://docs.astronomer.io/astro/cli/astro-dev-bash)
 - Run the following command :
 ```diff
 astro dev bash
