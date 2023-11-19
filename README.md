@@ -44,6 +44,8 @@ astro dev start
 - Run the following command :
 ```diff
 astro dev bash
+# This command alow you to you Astro Cli in terminal
+# also
 # this command provides the path of where the airflow schedular is running
 ```
 - Then :
