@@ -14,6 +14,8 @@
 https://astro-sdk-python.readthedocs.io/en/stable/
 https://docs.astronomer.io/learn/astro-python-sdk-etl
 ```
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/3abb79d8-39ae-4115-a982-b8322240311f)
+
 ```diff
 astro dev init
 # to initiate development environment
