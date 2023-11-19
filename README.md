@@ -80,6 +80,8 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
 ```
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/ffc3c84b-e22d-45da-8f98-f3e4e4cd78aa)
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/8f8ce6a4-924d-46ec-baea-13ec46b0b98b)
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/a79d2fdb-7cde-45cf-a737-27195b10285c)
+
 
 ## Cosmos
 - New way to integrate dbt with airflow <br/>
