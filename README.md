@@ -10,6 +10,11 @@
 - To install astro cli we need to make sure we have windows 10 and docker installed.
 
 ```diff
++ Astro SDK operators for L & T of pipeline
+https://astro-sdk-python.readthedocs.io/en/stable/
+https://docs.astronomer.io/learn/astro-python-sdk-etl
+```
+```diff
 astro dev init
 # to initiate development environment
 # please make sure to restart the system, as otherwise, this command will not execute, even when I ran it, after restart, it executed
