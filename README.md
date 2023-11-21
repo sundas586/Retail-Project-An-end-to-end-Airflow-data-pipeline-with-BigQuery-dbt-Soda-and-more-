@@ -62,10 +62,6 @@ astro dev bash
 - ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/16c90f85-edb5-4c2b-bf6b-254138479127)
  
 
-
-
-
-
 ## Soda
 Data quality framework (https://www.soda.io/) <br/><br/>
 
@@ -87,6 +83,10 @@ pip install -i https://pypi.cloud.soda.io soda-mysql
 
 craeted a .yml file named "online_retail_table_schema_check.yml" to test the schma of online_retail_table in bigQuery.
 ![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/389115d7-a209-45ea-a161-5781d2ef8e92)
+
+- Running first quality check :
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/64891b62-7eb5-4d98-8770-4e2c6af68ed1)
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/8d52471d-db46-48e2-a6be-6e43afbd4e07)
 
 
 ## Cosmos
