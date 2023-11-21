@@ -5,6 +5,7 @@
 - Soda
 - GCS account
 
+
 ## Astro CLI
 - The Astro CLI is a command-line interface for data orchestration. It allows you to get started with Apache Airflow,  It's the easiest way to get started with Apache Airflow. <br/>
 - To install astro cli we need to make sure we have windows 10 and docker installed.
@@ -92,7 +93,13 @@ craeted a .yml file named "online_retail_table_schema_check.yml" to test the sch
 ## Cosmos
 - New way to integrate dbt with airflow <br/>
 - In cosmos all your dbt models becomes a task in the data pipeline. <br/>
-- **alternate** : BashOperater to execute dbt commands (but there will be no visual progress of models at the time )
+- **alternate** : BashOperater to execute dbt commands (but there will be no visual progress of models at the time).
+  
+### Integration of dbt with airflow without cosmos (using bash operator)
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/78cd7132-f2d5-445b-81be-122521008604)
+### Integration of dbt with airflow with cosmos
+![image](https://github.com/sundas586/Retail-Project-An-end-to-end-Airflow-data-pipeline-with-BigQuery-dbt-Soda-and-more-/assets/33677647/ec661edd-dc3c-42e8-bac1-8f329522679b)
+
 
 ## GCS account
 - To load a file, one way is to create a bucket (You store objects in containers called buckets. All buckets are associated with a project).
